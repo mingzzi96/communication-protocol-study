@@ -1,0 +1,19 @@
+{
+  "name": "communication-protocol-study",
+  "version": "1.0.0",
+  "description": "communication-protocol 공부",
+  "main": "constant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingzzi96/communication-protocol-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingzzi96/communication-protocol-study/issues"
+  },
+  "homepage": "https://github.com/mingzzi96/communication-protocol-study#readme"
+}
